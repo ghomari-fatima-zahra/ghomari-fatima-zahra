@@ -62,14 +62,7 @@ A web frontend for managing vehicles, drivers, and transport missions, with an a
 
 [![Explore Massar](https://img.shields.io/badge/Explore_Massar-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghomari-fatima-zahra/Massar)
 
-## 🌍 A little introduction in three languages
 
-<details>
-<summary>🇬🇧 English</summary>
-
-Hi! I'm **Ghomari Fatima Zahra**, a software engineer and AI enthusiast. I'm interested in artificial intelligence and mathematics, and I'm currently expanding my knowledge of AI. **Massar** is a project I'm proud of.
-
-</details>
 
 
 
